@@ -1,0 +1,22 @@
+@font-face{font-family: Oxanium; src:url("../fonts/Oxanium/Oxanium-Regular.ttf");}
+
+html, body{
+	padding: 0;
+	margin: 0;
+}
+
+.title{
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+
+
+    font-family: 'Oxanium', cursive;
+    letter-spacing: 10px;
+}
+.title h1{
+	font-size: 60px;
+}
